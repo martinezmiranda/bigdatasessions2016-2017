@@ -1,0 +1,16 @@
+https://github.com/martinezmiranda/bigdatasessions2016-2017
+SQL Server mstrainingmadridsql.database.windows.net
+DB mstrainingmadridlol
+User clouderaadmin
+Pass Melocotonazo.77
+
+
+Cargar el fichero de Champions manualmente en HDFS, usando HUE
+Bola Extra: Cargar el fichero de Participants usando el Hadoop WebClient para .NET
+Montar una estructura de DataWarehouse con HIVE para Champions, Participants y Stats
+Bola Extra: Utilizar tablas ORC y/o particionadas
+Cargar el fichero de Stats desde Azure SQL DB usando Sqoop
+Obtener resultados similares a los disponibles en lolalytics.com/detailed
+Nombre, Win Rate %, Pick Rate %, Avg Kills, Max Kills, Avg Deaths, Max Deaths, Avg Assists, Avg Damage Dealt, Avg Damage Taken, Avg Healing, Avg Largest Kill Spree, Avg Largest Kill Spree, Avg Gold 
+Almacenar los resultados en una tabla HIVE
+Exportar los resultados a tabla SQL (results_nombre_apellido) con Sqoop 
