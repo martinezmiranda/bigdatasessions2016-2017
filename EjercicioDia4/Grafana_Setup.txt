@@ -1,0 +1,9 @@
+sudo yum install numpy
+sudo yum install https://grafanarel.s3.amazonaws.com/builds/grafana-3.1.1-1470047149.x86_64.rpm
+
+sudo service grafana-server start
+
+netstat -lpn | grep 3000
+
+Security Group - Inbound Rules y VNet - Inbound Rules
+Abrir puerto 3000
