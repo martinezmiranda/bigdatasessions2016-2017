@@ -1,0 +1,12 @@
+install kylin
+-------------
+0.sudo -u hdfs hadoop fs -chmod -R 777 / (DON'T DO THIS AT HOME)
+1.wget http://apache.rediris.es/kylin/apache-kylin-1.5.4.1/apache-kylin-1.5.4.1-cdh5.7-bin.tar.gz
+2.tar -zxvf apache-kylin-1.5.4.1-cdh5.7-bin.tar.gz 
+3.pwd
+4.export KYLIN_HOME = /home/clouderaadmin/kylin/apache-kylin-1.5.4.1-cdh5.7-bin
+5.Abrir puertos en VM
+6. ./check-env.sh
+Si todo ha ido bien:
+7: ./kylin.sh start
+
