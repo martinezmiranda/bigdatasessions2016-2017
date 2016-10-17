@@ -5,8 +5,8 @@ User fmartinez
 Pass Melocotonazo.77
 
 
-Cargar el fichero de Champions manualmente en HDFS, usando HUE
-Bola Extra: Cargar el fichero de Participants usando el Hadoop WebClient para .NET
+Cargar los ficheros de Champions y Participants manualmente en HDFS, usando HUE
+Bola Extra: Cargar uno (o ambos) usando el Hadoop WebClient para .NET
 Montar una estructura de DataWarehouse con HIVE para Champions, Participants y Stats
 Bola Extra: Utilizar tablas ORC y/o particionadas
 Cargar el fichero de Stats desde Azure SQL DB usando Sqoop
