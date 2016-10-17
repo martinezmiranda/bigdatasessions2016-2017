@@ -11,6 +11,7 @@ Montar una estructura de DataWarehouse con HIVE para Champions, Participants y S
 Bola Extra: Utilizar tablas ORC y/o particionadas
 Cargar el fichero de Stats desde Azure SQL DB usando Sqoop
 Obtener resultados similares a los disponibles en lolalytics.com/detailed
-Nombre, Win Rate %, Pick Rate %, Avg Kills, Max Kills, Avg Deaths, Max Deaths, Avg Assists, Avg Damage Dealt, Avg Damage Taken, Avg Healing, Avg Largest Kill Spree, Avg Largest Kill Spree, Avg Gold 
+Nombre, Win Rate %, Avg Kills, Max Kills, Avg Deaths, Max Deaths, Avg Assists, Avg Damage Dealt, Avg Damage Taken, Avg Healing, Avg Largest Kill Spree, Avg Largest Kill Spree, Avg Gold 
+Bola Extra: Añadir la columna Pick Rate %
 Almacenar los resultados en una tabla HIVE
 Exportar los resultados a tabla SQL (results_nombre_apellido) con Sqoop 
